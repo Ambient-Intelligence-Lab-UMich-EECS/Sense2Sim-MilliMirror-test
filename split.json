@@ -1,0 +1,49 @@
+{
+  "from": {
+    "bytes": 2289442,
+    "sha256": "09a877f47a7a243208ebd8268061f20fc859bbf7f7892512045633853c672f25"
+  },
+  "page": {
+    "path": "index.html",
+    "bytes": 1303194,
+    "sha256": "362065f9f25a807e4e8cc3a4668ec5d7c4630c097bd993a50254b0a499af275f"
+  },
+  "files": [
+    {
+      "path": "library/R05.txt",
+      "type": "text/plain",
+      "kind": "library",
+      "id": "R05",
+      "glb": {
+        "bytes": 66700,
+        "sha256": "4afd8daf523fcde5c2949cf776bad8abc77d2f4ff29ee19d3cdc2e1cac3b8c21"
+      },
+      "library": "model.glb",
+      "bytes": 88936,
+      "sha256": "8d3541a27fd59af8cec3b8ca6f40855001f7166ca1f934d88ade2bae8bab010b"
+    },
+    {
+      "path": "kg/exp-kg.json",
+      "type": "application/json",
+      "kind": "kg",
+      "id": "exp-kg",
+      "kb": true,
+      "bytes": 899153,
+      "sha256": "5b61e87851d105a980bbd078ea688c40c2adc8e928c4dc97169e0078899f4ccf"
+    },
+    {
+      "path": "world/millimirror-meeting.glb.js",
+      "type": "text/javascript",
+      "kind": "world",
+      "bytes": 1730955,
+      "sha256": "120026886a91ab4dbc5c113759c83276b35fe07cb2b01a3bae0b15f57ddb7bdd"
+    },
+    {
+      "path": "about/millimirror-radio.webp",
+      "type": "image/webp",
+      "kind": "about",
+      "bytes": 4224,
+      "sha256": "4a352d3b69575630ba97a9ad69734dadf1c1819e5b2b8aabe58a47a4b2e1a07b"
+    }
+  ]
+}
