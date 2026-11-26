@@ -1,8 +1,8 @@
-# Sense2Sim-MilliMirror
+# Sense2Sim-MilliMirror-test
 
 MilliMirror: 3D Printed Reflecting Surface for Millimeter-Wave Coverage Expansion, as an interactive page made by Sense2Sim.
 
-Online: https://ambient-intelligence-lab-umich-eecs.github.io/Sense2Sim-MilliMirror/
+Online: https://ambient-intelligence-lab-umich-eecs.github.io/Sense2Sim-MilliMirror-test/
 
 - `index.html`: the page; its heavy parts beside it (`library/`, `media/`, `kg/`, `world/`).
 - The camera's hand and body tracking (MediaPipe) load from their CDN when the reader turns the camera on.
